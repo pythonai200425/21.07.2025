@@ -72,4 +72,4 @@ INSERT INTO employees (full_name, department_id) VALUES
 -- Design (Emily in Paris)
 ('Emily Cooper', 11), ('Sylvie Grateau', 11), ('Julien', 11), ('Luc', 11);
 
--- delete department 'Security' so it will delete all the employees
+-- delete department 'Design' so it will delete all the employees
